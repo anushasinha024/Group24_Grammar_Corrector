@@ -1,0 +1,284 @@
+/* Custom styles for Grammar Correction Tool */
+
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Header styling */
+.header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.header h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.header p {
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+
+/* Input section styling */
+.input-section {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    overflow: hidden;
+}
+
+.input-header {
+    background-color: #1a1f2e;
+    color: white;
+    padding: 1rem 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.input-header i {
+    font-size: 1.2rem;
+}
+
+.input-content {
+    padding: 1.5rem;
+}
+
+/* Text input styling */
+#text-input, #corrected-text {
+    width: 100%;
+    min-height: 150px;
+    padding: 1rem;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-family: 'Consolas', 'Monaco', monospace;
+    line-height: 1.6;
+    resize: vertical;
+}
+
+.char-count {
+    color: #6c757d;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+/* File upload styling */
+.file-upload {
+    margin-top: 1.5rem;
+}
+
+.file-upload input[type="file"] {
+    cursor: pointer;
+}
+
+.file-upload input[type="file"]:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+    background-color: #e9ecef;
+}
+
+.file-info {
+    color: #6c757d;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+/* Button styling */
+.btn-group {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.btn {
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7;
+    transform: translateY(-1px);
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #5c636a;
+}
+
+/* Results section styling */
+.results-section {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.results-header {
+    background-color: rgb(26, 31, 46);
+    color: white;
+    padding: 1rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.error-count {
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.1s ease;
+}
+
+.error-count.has-errors {
+    background-color: #dc3545;
+    color: white;
+}
+
+.error-count.no-errors {
+    background-color: #198754;
+    color: white;
+}
+
+.results-content {
+    padding: 1.5rem;
+}
+
+/* Correction items styling */
+.correction-item {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.correction-item:last-child {
+    margin-bottom: 0;
+}
+
+.correction-type {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.type-grammar {
+    background-color: #e3f2fd;
+    color: #0d47a1;
+}
+
+.type-typo {
+    background-color: #fff3e0;
+    color: #e65100;
+}
+
+.correction-context {
+    margin: 0.5rem 0;
+    font-family: monospace;
+}
+
+.correction-suggestions {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.suggestion-chip {
+    background-color: #e9ecef;
+    padding: 0.25rem 0.75rem;
+    border-radius: 16px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.suggestion-chip:hover {
+    background-color: #dee2e6;
+}
+
+/* Corrected text container styling */
+.corrected-text-container {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+#corrected-text {
+    padding-right: 100px; /* Make space for the copy button */
+}
+
+#copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+}
+
+#copy-button:hover {
+    opacity: 1;
+}
+
+#copy-button.copied {
+    background-color: #198754;
+}
+
+#copy-button i {
+    font-size: 0.875rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+    
+    .header h1 {
+        font-size: 2rem;
+    }
+    
+    .btn-group {
+        flex-direction: column;
+    }
+    
+    .btn {
+        width: 100%;
+    }
+}

@@ -1,0 +1,1985 @@
+{
+  "overall": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0,
+    "true_positives": 0,
+    "false_positives": 853,
+    "false_negatives": 4576,
+    "total_examples": 194
+  },
+  "per_type": {
+    "MP": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 286,
+      "examples": [
+        {
+          "original": "",
+          "correction": ",",
+          "context": "your group at the Palace hotel located across the main stree"
+        },
+        {
+          "original": "",
+          "correction": "'",
+          "context": "Where are you? is very often t"
+        },
+        {
+          "original": "",
+          "correction": "'",
+          "context": "Where are you? is very often the first quest"
+        }
+      ]
+    },
+    "RP": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 388,
+      "examples": [
+        {
+          "original": "hotel",
+          "correction": "Hotel",
+          "context": " for your group at the Palace hotel located across the main stree"
+        },
+        {
+          "original": "yours",
+          "correction": "Yours",
+          "context": "st office: www.neuchatel.ch.\n\nyours sincerely"
+        },
+        {
+          "original": ".",
+          "correction": ",",
+          "context": "mers.\n\nDue to the mobile phone. communication has changed, no"
+        }
+      ]
+    },
+    "MD": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 359,
+      "examples": [
+        {
+          "original": "",
+          "correction": "the",
+          "context": "to our conference.\n\nAs far as  organisation is concerned,  a"
+        },
+        {
+          "original": "",
+          "correction": "an",
+          "context": "s  organisation is concerned,  adequate number of double roo"
+        },
+        {
+          "original": "Mobile",
+          "correction": "The mobile",
+          "context": "e to ask which salad to buy.\n\nMobile phone is a marvellous inventi"
+        }
+      ]
+    },
+    "R": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 87,
+      "examples": [
+        {
+          "original": "at his best",
+          "correction": "well",
+          "context": " read about Richard not being at his best. I hope that he will recover "
+        },
+        {
+          "original": ",",
+          "correction": " and",
+          "context": "on, we could visit the museums, markets (we have a very inter"
+        },
+        {
+          "original": "What has",
+          "correction": "How have",
+          "context": "ines there're computer chips. What has computer affected to our life"
+        }
+      ]
+    },
+    "DN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 40,
+      "examples": [
+        {
+          "original": "lake front",
+          "correction": "lakeside",
+          "context": " either watch downhill to the lake front (about 10 min) or take the ne"
+        },
+        {
+          "original": "job-life",
+          "correction": "professional life",
+          "context": "elephone is very important in job-life. Nowadays there are no compan"
+        },
+        {
+          "original": "end-of-conference",
+          "correction": "end of the conference",
+          "context": "opposite the station.\n\nAt the end-of-conference the college, in which the con"
+        }
+      ]
+    },
+    "DJ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 59,
+      "examples": [
+        {
+          "original": "recreative",
+          "correction": "recreational",
+          "context": "ence, followed by a meal. The recreative part will begin at 10 pm with"
+        },
+        {
+          "original": "Catalonia",
+          "correction": "Catalonian",
+          "context": "epresentative examples of the Catalonia modernisme art.\n\nGaudi concei"
+        },
+        {
+          "original": "life",
+          "correction": "live",
+          "context": "s - no alcohol. There will be life music and the students can da"
+        }
+      ]
+    },
+    "DT": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 2,
+      "examples": [
+        {
+          "original": "Appart of",
+          "correction": "Apart from",
+          "context": "you take with you a pullover. Appart of that, there is no recommendat"
+        },
+        {
+          "original": "In order of",
+          "correction": "With regard to",
+          "context": "Dear Group leader,\n\nIn order of your request, I'm going to gi"
+        }
+      ]
+    },
+    "RN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 149,
+      "examples": [
+        {
+          "original": "stairs",
+          "correction": "steps",
+          "context": " station. The college is just stairs away from the bottom end.\n\nTh"
+        },
+        {
+          "original": "airline",
+          "correction": "flight",
+          "context": " note by hand. When booking a airline, we can just simply make a ph"
+        },
+        {
+          "original": "phone",
+          "correction": "phone call",
+          "context": "ne, we can just simply make a phone to any agency, and get it don"
+        }
+      ]
+    },
+    "RV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 205,
+      "examples": [
+        {
+          "original": "watch",
+          "correction": "walk",
+          "context": "o our college, you can either watch downhill to the lake front (a"
+        },
+        {
+          "original": "right",
+          "correction": "write",
+          "context": " as for cigarettes, we should right on it\n\nCAUTION: use of this d"
+        },
+        {
+          "original": "happens",
+          "correction": "will be",
+          "context": "nd-of-conference party, which happens in the evening on 20 June, is"
+        }
+      ]
+    },
+    "AGN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 63,
+      "examples": [
+        {
+          "original": "min",
+          "correction": "mins",
+          "context": "l to the lake front (about 10 min) or take the new cable car fr"
+        },
+        {
+          "original": "operations",
+          "correction": "operation",
+          "context": " has a special illness, gets  operations by a foreign institutes, whic"
+        },
+        {
+          "original": "institutes",
+          "correction": "institute",
+          "context": "gets  operations by a foreign institutes, which he find via  internet."
+        }
+      ]
+    },
+    "RT": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 262,
+      "examples": [
+        {
+          "original": "by",
+          "correction": "with",
+          "context": "ng on the lake. It will start by a speech from the Director of"
+        },
+        {
+          "original": "for",
+          "correction": "with",
+          "context": "a marvellous invention but as for cigarettes, we should right o"
+        },
+        {
+          "original": "in",
+          "correction": "on",
+          "context": "t something casual.\n\nFinally, in the last afternoon, we could "
+        }
+      ]
+    },
+    "UPPERCASE_SENTENCE_START": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "MORFOLOGIK_RULE_EN_US": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "MA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 83,
+      "examples": [
+        {
+          "original": "",
+          "correction": "us",
+          "context": "mproved.\n\nOf course it allows  to be reached everywhere (eve"
+        },
+        {
+          "original": "",
+          "correction": "it",
+          "context": "being done in order to finish  as soon as possible.\n\nThe vis"
+        },
+        {
+          "original": "Is",
+          "correction": "It is",
+          "context": "ea in the centre of Acapulco. Is situated in the top of a litt"
+        }
+      ]
+    },
+    "IV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 25,
+      "examples": [
+        {
+          "original": "dialing",
+          "correction": "dialling",
+          "context": " the shopping list instead of dialing home to ask which salad to bu"
+        },
+        {
+          "original": "controling",
+          "correction": "controlling",
+          "context": "k from home, making projects, controling operations or having conferen"
+        },
+        {
+          "original": "traveling",
+          "correction": "travelling",
+          "context": "ke with the hotel manager for traveling to the conference. The hotel "
+        }
+      ]
+    },
+    "W": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 125,
+      "examples": [
+        {
+          "original": "bus number 8",
+          "correction": "number 8 bus",
+          "context": "ng. Off course there's also a bus number 8  in front of the hotel is als"
+        },
+        {
+          "original": "Or even in cars and washmachines there're computer chips",
+          "correction": "There're even computer chips in cars and washing machines",
+          "context": "corner, in offices, in shops. Or even in cars and washmachines there're computer chips. What has computer affected t"
+        },
+        {
+          "original": "use the telephone also",
+          "correction": "also use the telephone",
+          "context": " you are injured.\n\nThe people use the telephone also for their personal life. For "
+        }
+      ]
+    },
+    "UP": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 131,
+      "examples": [
+        {
+          "original": ",",
+          "correction": "",
+          "context": "stly, I would like to tell you, that the group has been booke"
+        },
+        {
+          "original": ",",
+          "correction": "",
+          "context": "he whole night. What's more is, that there's a Latin music ba"
+        },
+        {
+          "original": ",",
+          "correction": "",
+          "context": "twork. It's a very often heard, that someone, who has a speci"
+        }
+      ]
+    },
+    "DY": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 23,
+      "examples": [
+        {
+          "original": "appropriatly",
+          "correction": "appropriately",
+          "context": "pe your questions re answered appropriatly.\n\nI'm looking forward to seei"
+        },
+        {
+          "original": "sincerly",
+          "correction": "sincerely",
+          "context": "y further information.\n\nYours sincerly,"
+        },
+        {
+          "original": "absolutly",
+          "correction": "absolutely",
+          "context": "nteresting past. The tower is absolutly marvelous. You can walk to th"
+        }
+      ]
+    },
+    "FV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 149,
+      "examples": [
+        {
+          "original": "are performing",
+          "correction": "playing",
+          "context": "tudent bands from our country are performing music through the whole night"
+        },
+        {
+          "original": "work",
+          "correction": "to work",
+          "context": "t can be possible that people work from home, making projects, c"
+        },
+        {
+          "original": "organise",
+          "correction": "organising",
+          "context": "s you know I am in charge for organise the conference in my college."
+        }
+      ]
+    },
+    "M": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 56,
+      "examples": [
+        {
+          "original": "",
+          "correction": ", which",
+          "context": "umber 8  in front of the hotel is also suitable, but it leav"
+        },
+        {
+          "original": "",
+          "correction": "that way",
+          "context": "l-dressed, if you feel better . After the conference we are "
+        },
+        {
+          "original": "",
+          "correction": "ourselves to",
+          "context": "ck time in order to introduce  each others.\n\nFinally in my o"
+        }
+      ]
+    },
+    "MV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 38,
+      "examples": [
+        {
+          "original": "",
+          "correction": "to get",
+          "context": "93888. Secondly, the best way  from the hotel to the confere"
+        },
+        {
+          "original": "",
+          "correction": "reading",
+          "context": "s still not as comfortable as  on papers. A very important a"
+        },
+        {
+          "original": "",
+          "correction": "is",
+          "context": " Is the best place to go and   easy to get there."
+        }
+      ]
+    },
+    "SX": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 69,
+      "examples": [
+        {
+          "original": "Off",
+          "correction": "Of",
+          "context": " at 6 o'clock in the evening. Off course there's also a bus num"
+        },
+        {
+          "original": "holly",
+          "correction": "holy",
+          "context": "\"Sagrada Familia\" a real holly building.\n\nIf you are looking"
+        },
+        {
+          "original": "fro",
+          "correction": "from",
+          "context": "church offers a gorgeous view fro the top of its towers, a char"
+        }
+      ]
+    },
+    "TV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 248,
+      "examples": [
+        {
+          "original": "locates",
+          "correction": "is located",
+          "context": "ked into  Palace Hotel, which locates beside the congress house in "
+        },
+        {
+          "original": "is",
+          "correction": "has been",
+          "context": "nce is to take the bus, which is specially organized by us. Th"
+        },
+        {
+          "original": "are",
+          "correction": "will be",
+          "context": "t. Beside the barbecue, there are some well-known student bands"
+        }
+      ]
+    },
+    "MT": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 114,
+      "examples": [
+        {
+          "original": "",
+          "correction": "to",
+          "context": " Smith\n\nI am writing to reply  your letter you wrote  me on "
+        },
+        {
+          "original": "",
+          "correction": "to",
+          "context": " reply  your letter you wrote  me on 10 June.\n\nFirstly, I wo"
+        },
+        {
+          "original": "",
+          "correction": "for",
+          "context": "opping, we don't need to wait  the Kasse to take every artic"
+        }
+      ]
+    },
+    "UD": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 131,
+      "examples": [
+        {
+          "original": "a",
+          "correction": "",
+          "context": "robot-market). Basically it's a free time for the students to"
+        },
+        {
+          "original": "the",
+          "correction": "",
+          "context": "rst of all, the efficiency of the society has been improved. Wh"
+        },
+        {
+          "original": "a",
+          "correction": "",
+          "context": "or on the local network. It's a very often heard, that someon"
+        }
+      ]
+    },
+    "RD": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 71,
+      "examples": [
+        {
+          "original": "your",
+          "correction": "the",
+          "context": "Smith\n\nI am writing to reply  your letter you wrote  me on 10 Ju"
+        },
+        {
+          "original": "a",
+          "correction": "a",
+          "context": "'s note by hand. When booking a airline, we can just simply m"
+        },
+        {
+          "original": "your",
+          "correction": "a",
+          "context": ". And, unless you suffer from your heart , you should climb the "
+        }
+      ]
+    },
+    "RA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 63,
+      "examples": [
+        {
+          "original": "what",
+          "correction": "that",
+          "context": " books to get the information what we need, we can very easily s"
+        },
+        {
+          "original": "Someone",
+          "correction": "You",
+          "context": "re nearby an enormous church. Someone can get to the city centre wi"
+        },
+        {
+          "original": "all",
+          "correction": "everything",
+          "context": "udents to the airport. That's all. I wait you.\n\nYour sincerly"
+        }
+      ]
+    },
+    "S": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 375,
+      "examples": [
+        {
+          "original": "Now-a-day",
+          "correction": "Nowadays",
+          "context": "Computer Life\n\nNow-a-day computer can be found in almo"
+        },
+        {
+          "original": "Kasse",
+          "correction": "cashier",
+          "context": "g, we don't need to wait  the Kasse to take every article's note "
+        },
+        {
+          "original": "tranditional",
+          "correction": "traditional",
+          "context": " also changed. Instead of the tranditional telecommunication, we can tal"
+        }
+      ]
+    },
+    "RJ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 79,
+      "examples": [
+        {
+          "original": "special",
+          "correction": "rare",
+          "context": "eard, that someone, who has a special illness, gets  operations by "
+        },
+        {
+          "original": "big",
+          "correction": "large",
+          "context": " \"Sagrada Familia\". Among the big number of choices, this unfin"
+        },
+        {
+          "original": "nearby",
+          "correction": "near",
+          "context": " castle is in the city centre nearby an enormous church. Someone c"
+        }
+      ]
+    },
+    "UT": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 94,
+      "examples": [
+        {
+          "original": "to",
+          "correction": "",
+          "context": "s. What has computer affected to our life?\n\nFirst of all, the "
+        },
+        {
+          "original": "to",
+          "correction": "",
+          "context": " historical building. I asked to some pleople in town and this"
+        },
+        {
+          "original": "Until now",
+          "correction": "Now",
+          "context": "hanged people's life in wars. Until now, it is being important in the"
+        }
+      ]
+    },
+    "RY": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 52,
+      "examples": [
+        {
+          "original": "Till now",
+          "correction": "So far",
+          "context": "the reliability and security. Till now, to completely rely on comput"
+        },
+        {
+          "original": "Even more",
+          "correction": "More importantly",
+          "context": "the city without any problem. Even more the conference is going to ta"
+        },
+        {
+          "original": "much",
+          "correction": "very",
+          "context": "ace Hotel. Our college is not much far away. You only have to ta"
+        }
+      ]
+    },
+    "IN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 19,
+      "examples": [
+        {
+          "original": "telecommunication",
+          "correction": "telecommunications",
+          "context": ". Instead of the tranditional telecommunication, we can talk , mail or even s"
+        },
+        {
+          "original": "Lifes",
+          "correction": "Lives",
+          "context": "Affecting Our Lifes\n\nCars, boats, motobikes, airp"
+        },
+        {
+          "original": "familys",
+          "correction": "families",
+          "context": "er you want. In this year the familys they have 3 cars in one famil"
+        }
+      ]
+    },
+    "U": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 19,
+      "examples": [
+        {
+          "original": "very essential",
+          "correction": "",
+          "context": "usion, computer have become a very essential necessity of our life, and it"
+        },
+        {
+          "original": "that they",
+          "correction": "",
+          "context": "tion. The humans seems always that they are running and the fastest o"
+        },
+        {
+          "original": "the information on",
+          "correction": "",
+          "context": "to answer your question about the information on an interesting building to vi"
+        }
+      ]
+    },
+    "AGV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 94,
+      "examples": [
+        {
+          "original": "computer",
+          "correction": "computers",
+          "context": "e're computer chips. What has computer affected to our life?\n\nFirst "
+        },
+        {
+          "original": "need",
+          "correction": "needs",
+          "context": "which the computer technology need to be improved. For example, "
+        },
+        {
+          "original": "need",
+          "correction": "needs",
+          "context": "till a young invention, which need to be improved."
+        }
+      ]
+    },
+    "FN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 88,
+      "examples": [
+        {
+          "original": "computer",
+          "correction": "computers",
+          "context": "Computer Life\n\nNow-a-day computer can be found in almost every "
+        },
+        {
+          "original": "network",
+          "correction": "networks",
+          "context": "rnet. Moreover, with computer network, it can be possible that peop"
+        },
+        {
+          "original": "life",
+          "correction": "lives",
+          "context": "ause it have changed people's life in wars. Until now, it is bei"
+        }
+      ]
+    },
+    "AS": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 23,
+      "examples": [
+        {
+          "original": "to completely rely on computer is still somehow not safe enough",
+          "correction": "it is still somehow not safe enough to completely rely on computers",
+          "context": "ility and security. Till now, to completely rely on computer is still somehow not safe enough.\n\nIn conclusion, computer hav"
+        },
+        {
+          "original": "explain you about the location, the architecture",
+          "correction": "describe the location and architecture for you",
+          "context": "Introduction: I am writing to explain you about the location, the architecture and  the story of the old Rom"
+        },
+        {
+          "original": "The well known Big Buhha you mustn't miss it",
+          "correction": "You mustn't miss the famous Big Buddha",
+          "context": "en here for nearly 100 years. The well known Big Buhha you mustn't miss it, or you will be sorry. The te"
+        }
+      ]
+    },
+    "CL": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 3,
+      "examples": [
+        {
+          "original": "just simply",
+          "correction": "just",
+          "context": "hen booking a airline, we can just simply make a phone to any agency, a"
+        },
+        {
+          "original": "drink and food",
+          "correction": "food and drink",
+          "context": "r.\n\nAfter the conference some drink and food will be available in the spor"
+        },
+        {
+          "original": "drink and food",
+          "correction": "food and drink",
+          "context": "e to anoder place. We'll have drink and food and music for dance. It is no"
+        }
+      ]
+    },
+    "CN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 29,
+      "examples": [
+        {
+          "original": "papers",
+          "correction": "paper",
+          "context": "ill not as comfortable as  on papers. A very important and severe "
+        },
+        {
+          "original": "informations",
+          "correction": "information",
+          "context": " are able to give and receive informations very quickly.\n\nThis invention"
+        },
+        {
+          "original": "informations",
+          "correction": "information",
+          "context": "ated box can give us a lot of informations coming from all around the wo"
+        }
+      ]
+    },
+    "NOW_A_DAY_HYPHEN": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "HE_VERB_AGR": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "AGA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 28,
+      "examples": [
+        {
+          "original": "others",
+          "correction": "other",
+          "context": "e in order to introduce  each others.\n\nFinally in my opinion, you "
+        },
+        {
+          "original": "It",
+          "correction": "They",
+          "context": "a party for all the students. It will be offered light food, l"
+        },
+        {
+          "original": "whom",
+          "correction": "who",
+          "context": "0 lights, and also 100 people whom can help you if you need any "
+        }
+      ]
+    },
+    "UJ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 9,
+      "examples": [
+        {
+          "original": "far",
+          "correction": "",
+          "context": "ted only five minutes walking far from the Hotel.\n\nWe haven't a"
+        },
+        {
+          "original": "own",
+          "correction": "",
+          "context": "e car has largely affected my own life. I can go anywhere by ca"
+        },
+        {
+          "original": "relevant",
+          "correction": "",
+          "context": "summary of the most important relevant points and some recommendatio"
+        }
+      ]
+    },
+    "L": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 16,
+      "examples": [
+        {
+          "original": "About",
+          "correction": "concerning",
+          "context": " and give him my best wishes. About your request, I'm going to gi"
+        },
+        {
+          "original": "many",
+          "correction": "a lot of",
+          "context": " For example, I can travel to many places in the U.K. Especially"
+        },
+        {
+          "original": "persons",
+          "correction": "people",
+          "context": "r the places of work  for the persons is minor. But, definetely the"
+        }
+      ]
+    },
+    "MN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 19,
+      "examples": [
+        {
+          "original": "",
+          "correction": "problem",
+          "context": "ss you suffer from your heart , you should climb the 350 ste"
+        },
+        {
+          "original": "",
+          "correction": "clothes",
+          "context": "ion you can wear very cassual .\n\nFinally,  the last day I su"
+        },
+        {
+          "original": "",
+          "correction": "venue",
+          "context": "is in front of the conference .\n\nThe conference which will b"
+        }
+      ]
+    },
+    "RQ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 15,
+      "examples": [
+        {
+          "original": "all the",
+          "correction": "the whole",
+          "context": "The visitor can wonder around all the building or follow a guided v"
+        },
+        {
+          "original": "all the",
+          "correction": "the whole",
+          "context": " can have a wonderful view of all the town, especially at night whe"
+        },
+        {
+          "original": "some",
+          "correction": "a few",
+          "context": " to come at the conference in some minutes. When you go out of t"
+        }
+      ]
+    },
+    "FD": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 14,
+      "examples": [
+        {
+          "original": "a",
+          "correction": "an",
+          "context": "llow a guided visit. There is a exhibition room where maps an"
+        },
+        {
+          "original": "an",
+          "correction": "a",
+          "context": "de San Diego Musseum. This is an historical building. I asked "
+        },
+        {
+          "original": "a",
+          "correction": "an",
+          "context": "church in our country. It has a interesting past. The tower i"
+        }
+      ]
+    },
+    "FOR_FRO": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "RC": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 18,
+      "examples": [
+        {
+          "original": "but",
+          "correction": "and",
+          "context": "erd. We found two good hotels but we decided for the Palace Hot"
+        },
+        {
+          "original": "but",
+          "correction": "and",
+          "context": " as a highly commerical city, but you could find something diff"
+        },
+        {
+          "original": "that",
+          "correction": "when",
+          "context": "the last day in the afternoon that you have three ours free you "
+        }
+      ]
+    },
+    "AGD": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 9,
+      "examples": [
+        {
+          "original": "his",
+          "correction": "its",
+          "context": "best building in Acapulco for his history and reputation. Is th"
+        },
+        {
+          "original": "this",
+          "correction": "these",
+          "context": "re running and the fastest of this inventions is certainly, the "
+        },
+        {
+          "original": "their",
+          "correction": "its",
+          "context": "the conference. The hotel has their own buses, they will pick us "
+        }
+      ]
+    },
+    "SA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 44,
+      "examples": [
+        {
+          "original": "program",
+          "correction": "programme",
+          "context": "tudents have prepared a music program for the end-of-conference par"
+        },
+        {
+          "original": "marvelous",
+          "correction": "marvellous",
+          "context": "e, because it is interesting, marvelous and something different. It i"
+        },
+        {
+          "original": "meters",
+          "correction": "metres",
+          "context": " at our country. It is eighty meters long and its tower is fourty "
+        }
+      ]
+    },
+    "IJ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 15,
+      "examples": [
+        {
+          "original": "quickier",
+          "correction": "quicker",
+          "context": "has made our lives easier and quickier. The telephone has made my ow"
+        },
+        {
+          "original": "modernest",
+          "correction": "most modern",
+          "context": "on of the world in one of the modernest building."
+        },
+        {
+          "original": "differents",
+          "correction": "different",
+          "context": "ry where you can enjoy seeing differents kinds of paintings.\n\nI hope m"
+        }
+      ]
+    },
+    "INFORMATIONS": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "DA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 24,
+      "examples": [
+        {
+          "original": "Your",
+          "correction": "Yours",
+          "context": "oking forward to seeing you.\n\nYour sincerely,"
+        },
+        {
+          "original": "Your",
+          "correction": "Yours",
+          "context": "ort. That's all. I wait you.\n\nYour sincerly"
+        },
+        {
+          "original": "Your",
+          "correction": "Yours",
+          "context": "ooking forward to seeing you\n\nYour Sincerely"
+        }
+      ]
+    },
+    "YOUR_YOU_RE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "POSSESSIVE_APOSTROPHE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "ENGLISH_WORD_REPEAT_BEGINNING_RULE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "UV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 39,
+      "examples": [
+        {
+          "original": "intended",
+          "correction": "",
+          "context": "m.\n\nThe aim of this report is intended to discribe the biggest build"
+        },
+        {
+          "original": "coming",
+          "correction": "",
+          "context": "give us a lot of informations coming from all around the world.\n\nT"
+        },
+        {
+          "original": "visit",
+          "correction": "",
+          "context": "do you think if we will go to visit the Arts Museum? Of if we wil"
+        }
+      ]
+    },
+    "FJ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 12,
+      "examples": [
+        {
+          "original": "more comfortable",
+          "correction": "comfortable",
+          "context": "ugh we want to make things as more comfortable as possible to our students.\n"
+        },
+        {
+          "original": "better",
+          "correction": "best",
+          "context": "e the nations fight to be the better one couldn't be diferent: the"
+        },
+        {
+          "original": "better",
+          "correction": "best",
+          "context": "have to think  which hotel is better for the students. I have an i"
+        }
+      ]
+    },
+    "UA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 31,
+      "examples": [
+        {
+          "original": "it",
+          "correction": "",
+          "context": "Conference, not being modest, it is a quite well organized. It"
+        },
+        {
+          "original": "it",
+          "correction": "",
+          "context": " the industrial polution that it has been created and it seems"
+        },
+        {
+          "original": "it",
+          "correction": "",
+          "context": "elves and to dance. The party it will be nice. The clothes now"
+        }
+      ]
+    },
+    "MJ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 7,
+      "examples": [
+        {
+          "original": "",
+          "correction": "Dear",
+          "context": " Mrs Smith,\n\nI received your l"
+        },
+        {
+          "original": "",
+          "correction": "away",
+          "context": "College. It is four bus stops . Then walk straight for five "
+        },
+        {
+          "original": "",
+          "correction": "available",
+          "context": "the number the places of work  for the persons is minor. But"
+        }
+      ]
+    },
+    "MD_BASEFORM": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "THIS_NNS": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "IT_VBZ": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "PRP_COMMA": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "MY": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 14,
+      "examples": [
+        {
+          "original": "",
+          "correction": "when",
+          "context": "ause of the Secound world war  it had been demaged. The chur"
+        },
+        {
+          "original": "",
+          "correction": "there",
+          "context": "witzerland because the people  were considerated clever. Dur"
+        },
+        {
+          "original": "",
+          "correction": "there",
+          "context": "mpany directors, Managers etc .\n\nAs for the last day I would"
+        }
+      ]
+    },
+    "EN_A_VS_AN": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "NON3PRS_VERB": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "UQ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 15,
+      "examples": [
+        {
+          "original": "such",
+          "correction": "",
+          "context": "f the building and experience such a amazing view. Another reaso"
+        },
+        {
+          "original": "all",
+          "correction": "",
+          "context": " to visit because it includes all Turkish history and very good"
+        },
+        {
+          "original": "All different",
+          "correction": "Different",
+          "context": " college for more activities. All different types of clothing could be wo"
+        }
+      ]
+    },
+    "UC": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 16,
+      "examples": [
+        {
+          "original": "if",
+          "correction": "",
+          "context": " to visit the Arts Museum? Of if we will go to hear a classic "
+        },
+        {
+          "original": "if",
+          "correction": "",
+          "context": " be grateful to give any help if you need. I am looking forwar"
+        },
+        {
+          "original": "that",
+          "correction": "",
+          "context": "rly indicate Carleon and once that you are on the main road all "
+        }
+      ]
+    },
+    "DOUBLE_PUNCTUATION": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "CD": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 2,
+      "examples": [
+        {
+          "original": "these",
+          "correction": "this",
+          "context": "nt cultures too.\n\nI hope that these informations will bring you t"
+        },
+        {
+          "original": "these",
+          "correction": "the",
+          "context": "der of the group. I hope that these informations below are very u"
+        }
+      ]
+    },
+    "COMPERE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "ID": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 24,
+      "examples": [
+        {
+          "original": "those days",
+          "correction": "in the old days",
+          "context": "ives are more convenient than those days. A car is one of the inventio"
+        },
+        {
+          "original": "by walk",
+          "correction": "on foot",
+          "context": "nference it's only 15 minutes by walk.\n\nI think that it will be nic"
+        },
+        {
+          "original": "In one hand",
+          "correction": "On the one hand",
+          "context": "not go to the cinema anymore. In one hand it's because they have not en"
+        }
+      ]
+    },
+    "MC": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 23,
+      "examples": [
+        {
+          "original": "",
+          "correction": "since",
+          "context": "laces in the U.K. Especially,  I live in Whitwell-on-the-Hil"
+        },
+        {
+          "original": "",
+          "correction": "and",
+          "context": "r all  school were demolished  only our is left.\n\nConclusion"
+        },
+        {
+          "original": "",
+          "correction": "and",
+          "context": "bout 35 internation students,  they are all strangers here. "
+        }
+      ]
+    },
+    "UN": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 19,
+      "examples": [
+        {
+          "original": "car",
+          "correction": "",
+          "context": "th me from Thailand. I took a car driving theory test last Octo"
+        },
+        {
+          "original": "Maria",
+          "correction": "",
+          "context": "Dear Mrs Maria Smith,\n\nI have received your "
+        },
+        {
+          "original": "choice",
+          "correction": "",
+          "context": "s of luxury and ornamentation choice. Even if the architectural st"
+        }
+      ]
+    },
+    "PCT_PLURAL_NOUN_SINGULAR_VERB_AGREEMENT": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "CAUSE_BECAUSE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "BEEN_PART_AGREEMENT": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "PRP_HAVE_VB": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "DV": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 8,
+      "examples": [
+        {
+          "original": "considerated",
+          "correction": "considered",
+          "context": "land because the people  were considerated clever. During the Second Wor"
+        },
+        {
+          "original": "imaged",
+          "correction": "imagined",
+          "context": "lectric light.\n\nHave you ever imaged how this world would be if th"
+        },
+        {
+          "original": "safe",
+          "correction": "save",
+          "context": "hat everybody has at home can safe your life, especially if you "
+        }
+      ]
+    },
+    "CQ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 1,
+      "examples": [
+        {
+          "original": "a",
+          "correction": "some",
+          "context": "y afternoon, it has set to be a free time. Therefore, you can"
+        }
+      ]
+    },
+    "HAVE_PART_AGREEMENT": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "SINGULAR_NOUN_ADV_AGREEMENT": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "X": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 6,
+      "examples": [
+        {
+          "original": "we both were not",
+          "correction": "neither of us were",
+          "context": "language, we used English but we both were not very good at it by the time w"
+        },
+        {
+          "original": "don't have affected only",
+          "correction": "haven't only affected",
+          "context": "utes; the same! But computers don't have affected only  in a good way because thank "
+        },
+        {
+          "original": "not to wear",
+          "correction": "don't wear",
+          "context": "t formal, but I recommend you not to wear jeans and trainners.\n\nAt last"
+        }
+      ]
+    },
+    "WOLD_WOULD": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "MQ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 7,
+      "examples": [
+        {
+          "original": "",
+          "correction": "some",
+          "context": "e to watch a film if you have  free time.\n\nThe boat it's not"
+        },
+        {
+          "original": "",
+          "correction": "some",
+          "context": "inners.\n\nAt last, if you have  free time for  couple of ours"
+        },
+        {
+          "original": "",
+          "correction": "any",
+          "context": "is 047***. Please if you have  more ideas send me a letter.\n"
+        }
+      ]
+    },
+    "UY": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 23,
+      "examples": [
+        {
+          "original": "as well",
+          "correction": "",
+          "context": "r, and I think you can enjoy  as well. It doesn't take a lot of tim"
+        },
+        {
+          "original": "too",
+          "correction": "",
+          "context": "ing else.\n\nAlso, I was asking too many people in the street. Co"
+        },
+        {
+          "original": "so",
+          "correction": "",
+          "context": "aditional Japanese city where so many temple and heritages are"
+        }
+      ]
+    },
+    "YO_TO": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "SAVE_SAFE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "AGQ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 7,
+      "examples": [
+        {
+          "original": "any",
+          "correction": "all",
+          "context": "onal computer and use them at any times. When you take the clas"
+        },
+        {
+          "original": "other",
+          "correction": "another",
+          "context": "ives or friends are living in other country you can communicate w"
+        },
+        {
+          "original": "every",
+          "correction": "all the",
+          "context": "good meaning.\n\nYou can notice every students what they could make"
+        }
+      ]
+    },
+    "CD_NN": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "CAFE_DIACRITIC": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "WE_APOSTROPHE_ARE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "FA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 3,
+      "examples": [
+        {
+          "original": "those",
+          "correction": "that",
+          "context": "! How would you cope with all those?\n\nThank god for those who had"
+        },
+        {
+          "original": "yourself",
+          "correction": "yourselves",
+          "context": "ou and your group can refresh yourself. I would like to mention that"
+        },
+        {
+          "original": "other",
+          "correction": "others",
+          "context": "e of them are very practical, other are rather strange.\n\nI thing,"
+        }
+      ]
+    },
+    "I_LOWERCASE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "DIFFERENT_THAN": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "QUIET_QUITE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "VBZ_VBD": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "EN_WORD_COHERENCY": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "I_IF": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "IT_IS_NO": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "EVERY_EACH_SINGULAR": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "ADVISE_VBG": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "THE_SUPERLATIVE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "DD": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 1,
+      "examples": [
+        {
+          "original": "you",
+          "correction": "your",
+          "context": "nought for  one day trip. For you information I can say that at"
+        }
+      ]
+    },
+    "RELATIVE_CLAUSE_AGREEMENT": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "IQ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 1,
+      "examples": [
+        {
+          "original": "others",
+          "correction": "other",
+          "context": "g electric equipment and some others . But to my opinion if people"
+        }
+      ]
+    },
+    "THING_THINK": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "TOW_TWO": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "AN_AND": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "LIFE_LIVE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "OTHER_OTHERS": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "CONFUSION_OF_ME_I": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "HAS_TO_APPROVED_BY": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "COMMA_THAN": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "EN_SIMPLE_REPLACE_BUSSINESS": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "GIVE_ADVISE": {
+      "precision": 0.0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0,
+      "examples": []
+    },
+    "DQ": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 1,
+      "examples": [
+        {
+          "original": "a",
+          "correction": "one",
+          "context": "\n\nIn every household there is a telephone at least.\n\nThere ar"
+        }
+      ]
+    },
+    "IA": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 1,
+      "examples": [
+        {
+          "original": "Todays",
+          "correction": "Today",
+          "context": "alls and to get their calls.\n\nTodays nobody could imagine such a s"
+        }
+      ]
+    },
+    "DI": {
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 3,
+      "examples": [
+        {
+          "original": "yours",
+          "correction": "your",
+          "context": "one of my suggestion fit with yours expectations, let me kwon mor"
+        },
+        {
+          "original": "others",
+          "correction": "other",
+          "context": " will be important persons of others colleges. At the end of the c"
+        },
+        {
+          "original": "others",
+          "correction": "other",
+          "context": "en if in Paris there are many others buildings."
+        }
+      ]
+    }
+  },
+  "error_type_counts": {
+    "R": 87,
+    "MD": 359,
+    "RP": 388,
+    "MP": 286,
+    "RV": 205,
+    "DN": 40,
+    "AGN": 63,
+    "RN": 149,
+    "RT": 262,
+    "DJ": 59,
+    "DT": 2,
+    "MA": 83,
+    "IV": 25,
+    "MT": 114,
+    "RD": 71,
+    "UP": 131,
+    "TV": 248,
+    "MV": 38,
+    "SX": 69,
+    "W": 125,
+    "M": 56,
+    "FV": 149,
+    "UD": 131,
+    "DY": 23,
+    "S": 375,
+    "FN": 88,
+    "AGV": 94,
+    "UT": 94,
+    "CL": 3,
+    "RA": 63,
+    "RJ": 79,
+    "IN": 19,
+    "CN": 29,
+    "RY": 52,
+    "AS": 23,
+    "U": 19,
+    "L": 16,
+    "UJ": 9,
+    "AGA": 28,
+    "RQ": 15,
+    "FD": 14,
+    "MN": 19,
+    "RC": 18,
+    "AGD": 9,
+    "SA": 44,
+    "IJ": 15,
+    "DA": 24,
+    "UV": 39,
+    "MJ": 7,
+    "UA": 31,
+    "FJ": 12,
+    "MY": 14,
+    "UQ": 15,
+    "UC": 16,
+    "CD": 2,
+    "ID": 24,
+    "MC": 23,
+    "UN": 19,
+    "DV": 8,
+    "CQ": 1,
+    "X": 6,
+    "MQ": 7,
+    "UY": 23,
+    "AGQ": 7,
+    "FA": 3,
+    "DD": 1,
+    "IQ": 1,
+    "IA": 1,
+    "DQ": 1,
+    "DI": 3
+  }
+}
